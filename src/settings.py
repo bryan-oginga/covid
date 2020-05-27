@@ -14,7 +14,7 @@ SECRET_KEY = '9za**$x92ao1e2^+l=&r=nj#-6cdv_c=0fw^^)8alm63r%r6_4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['https://brian-covid-tracker.herokuapp.com','127.0.0.1']
 
 
 # Application definition
